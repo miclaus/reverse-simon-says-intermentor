@@ -1,2 +1,2 @@
-# reverse-simon-says-intermentor
+# Reverse Simon Says Intermentor
 Experimental analog to worldwide intermentor interface.
