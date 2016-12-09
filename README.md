@@ -2,13 +2,13 @@
 Experimental analog to worldwide intermentor interface.
 
 ## Arduino
-![RSSI Arduino Board](https://github.com/miclaus/reverse-simon-says-intermentor/media/rssi_arduino_board.png "RSSI Arduino Board")
+![RSSI Arduino Board](https://github.com/miclaus/reverse-simon-says-intermentor/blob/master/media/rssi_arduino_board.png "RSSI Arduino Board")
 
 ## VVVV
-![RSSI VVVV Patch](https://github.com/miclaus/reverse-simon-says-intermentor/media/rssi_vvvv_patch.png "RSSI VVVV Patch")
+![RSSI VVVV Patch](https://github.com/miclaus/reverse-simon-says-intermentor/blob/master/media/rssi_vvvv_patch.png "RSSI VVVV Patch")
 
 ## Webservice
-![RSSI Webservice Web Preview](https://github.com/miclaus/reverse-simon-says-intermentor/media/rssi_web_preview.png "RSSI Webservice Web Preview")
+![RSSI Webservice Web Preview](https://github.com/miclaus/reverse-simon-says-intermentor/blob/master/media/rssi_web_preview.png "RSSI Webservice Web Preview")
 
 ## Licence
 
